@@ -112,3 +112,4 @@ RESTful, é a aplicação dos padrões REST.
  - 500: Internal Server Error
 
 
+<h3> BIO: https://www.youtube.com/watch?v=ghTrp1x_1As&t=1466s</h3>
